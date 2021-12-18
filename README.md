@@ -1,5 +1,5 @@
 # Topology-Aware-Learning-Assisted-Branch-and-Ramp-Constraints-Screening-for-Dynamic-Economic-Dispatch
-# keywords—Dynamic economic dispatch, branch and ramp constraints, topology change, machine learning, constraint classification.
+# keywords—Dynamic economic dispatch, branch and ramp constraints, topology change, constraint classification.
 Multi-interval or dynamic economic dispatch (D-ED) is
 the core of various power system management functions. This
 optimization problem contains many constraints, a small subset of

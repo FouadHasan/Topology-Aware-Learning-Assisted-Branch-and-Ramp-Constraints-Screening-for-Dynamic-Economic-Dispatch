@@ -1,6 +1,6 @@
 # Topology-Aware-Learning-Assisted-Branch-and-Ramp-Constraints-Screening-for-Dynamic-Economic-Dispatch
 
-**Abstract:** Multi-interval or dynamic economic dispatch (D-ED) is
+**_Abstract_:** Multi-interval or dynamic economic dispatch (D-ED) is
 the core of various power system management functions. This
 optimization problem contains many constraints, a small subset of
 which is sufficient to enclose the D-ED feasible region. This paper
